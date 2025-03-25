@@ -27,9 +27,9 @@
  ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
  
  ## About Equidade.info
- ![Education](https://img.shields.io/badge/Education-9673A6?style=for-the-badge&logo=google-scholar&logoColor=white)&nbsp;
- ![Data Analysis](https://img.shields.io/badge/Data_Analysis-9673A6?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
- ![Social Impact](https://img.shields.io/badge/Social_Impact-9673A6?style=for-the-badge&logo=open-access&logoColor=white)&nbsp;
+ ![Education](https://img.shields.io/badge/Education-8080FF?style=for-the-badge&logo=google-scholar&logoColor=white)&nbsp;
+ ![Data Analysis](https://img.shields.io/badge/Data_Analysis-8080FF?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
+ ![Social Impact](https://img.shields.io/badge/Social_Impact-8080FF?style=for-the-badge&logo=open-access&logoColor=white)&nbsp;
  
  The largest listening platform for students, teachers and school managers in Brazil. We are a non-profit initiative dedicated to Basic Education, working across all Brazilian states collecting, analyzing and disseminating data for a call to action for equity policies.
  
@@ -38,4 +38,4 @@
    <a href="https://www.linkedin.com/in/gabrielle-carvalho-a0747016a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>&nbsp;&nbsp;
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9673A6&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080FF&height=120&section=footer"/>
